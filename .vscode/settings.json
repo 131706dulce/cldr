@@ -8,4 +8,5 @@
         ]
     }],
     "java.test.defaultConfig": "cldrtest",
+    "typescript-web.trace.server": "messages",
 }
