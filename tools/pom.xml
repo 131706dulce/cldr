@@ -99,7 +99,7 @@
 			<dependency>
 				<groupId>commons-fileupload</groupId>
 				<artifactId>commons-fileupload</artifactId>
-				<version>1.5</version>
+				<version>1.6.0</version>
 			</dependency>
 			<dependency>
 				<groupId>commons-io</groupId>
@@ -214,7 +214,7 @@
                         <ratchetFrom>NONE</ratchetFrom>
                         <!-- define a language-specific format -->
                         <java>
-                            <toggleOffOn />
+                            <toggleOffOn/>
                             <!-- no need to specify files, inferred automatically, but you can if you want -->
                             <!-- apply a specific flavor of google-java-format and reflow long strings -->
                             <googleJavaFormat>
